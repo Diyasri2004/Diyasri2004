@@ -1,12 +1,14 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=BB86FC&size=35&center=true&vCenter=true&width=900&lines=Hola+👋;Hi+👋;Namaste+🙏;Bonjour+✨;Ciao+💫;こんにちは+🌸;안녕하세요+🌼;مرحبا+🌙;Olá+🌿;Привет+🔥">
-</h1>
+<p align="center">
+  <a href="https://github.com/Diyasri2004">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=75&center=true&vCenter=true&width=850&height=200&duration=4000&lines=Namaste!;Hi+There!;¡Hola!;Konnichiwa!;Bonjour!&color=E0B0FF&background=0B0C10&containerColor=1A1A2E" alt="Greeting" />
+  </a>
+</p>
 
 <h3 align="center">Hey 👋 I'm Diya Srivastava✨</h3>
 <p align="center">
   Building things • Learning deeply • Growing consistently ✨
 </p>
-![banner](https://via.placeholder.com/1200x300/0d1117/BB86FC?text=Welcome+to+Diya's+Profile)
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="750" >
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=BB86FC&size=35&center=true&vCenter=true&width=900&lines=Hola+👋;Hi+👋;Namaste+🙏;Bonjour+✨;Ciao+💫;こんにちは+🌸;안녕하세요+🌼;مرحبا+🌙;Olá+🌿;Привет+🔥">
 </h1>
