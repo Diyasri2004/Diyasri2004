@@ -16,7 +16,7 @@
 
 ## 💫 About Me
 
-- 🎓 Pre-final year B.Tech CSE student at SRM Institute of Science & Technology
+- 🎓 Final year B.Tech CSE student at SRM Institute of Science & Technology
 - ☁️ AWS Certified with a strong interest in cloud, backend systems, and scalable applications
 - 💻 Skilled in C, C++, Python, DBMS, APIs, and system design fundamentals
 - 🧠 Built projects across AI, multimedia processing, and backend-driven applications
