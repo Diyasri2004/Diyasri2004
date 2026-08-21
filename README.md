@@ -48,16 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats-fastly.vercel.app/api?username=Diyasri2004&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats-fastly.vercel.app/api/top-langs/?username=Diyasri2004&theme=tokyonight&hide_border=false&layout=compact" alt="Top Langs" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -70,9 +60,10 @@
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| 🌍 **[Voyanta](https://voyanta-xi.vercel.app/)**[cite: 1] | FastAPI, React, TypeScript, Gemini API, PostgreSQL[cite: 1] | Multi-model dynamic AI travel and exploration engine[cite: 1]. |
-| 🧠 **[NeuroTwin](https://github.com/Diyasri2004)**[cite: 1] | Python, TensorFlow, Keras, SciPy, Scikit-learn[cite: 1] | EEG-based cognitive state classification and signal processing[cite: 1]. |
-| 📚 **[ProfX AI](https://github.com/Diyasri2004)**[cite: 1] | Python, Flask, OCR, Document Pipelines[cite: 1] | Automated question & answer generation from study documents[cite: 1]. |
+| 🌍 **[Voyanta](https://voyanta-xi.vercel.app/)** | FastAPI, React, TypeScript, Gemini API, PostgreSQL. | Multi-model dynamic AI travel and exploration engine. |
+| 🧠 **[NeuroTwin](https://github.com/Diyasri2004)** | Python, TensorFlow, Keras, SciPy, Scikit-learn. | EEG-based cognitive state classification and signal processing. |
+| 🎬 **[DeepDive AI](https://github.com/Diyasri2004)** | Python, Streamlit, Whisper, OpenAI API, FFmpeg. | Multimedia analysis pipeline converting video/audio into transcripts and structured insights. |
+| 📚 **[ProfX AI](https://github.com/Diyasri2004)** | Python, Flask, OCR, Document Pipelines. | Automated question & answer generation from study documents. |
 
 ---
 
