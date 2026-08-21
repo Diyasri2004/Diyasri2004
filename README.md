@@ -8,7 +8,7 @@
 
 ## Hi, I am Diya Srivastava 👋, Let's explore what we have here ✨
 
-### 🎓 B.Tech CSE student at SRM Institute of Science & Technology, passionate about cloud, AI, and building real-world impact-driven solutions. ☁️ AWS Certified | 💻 Backend & Systems | 🧠 ML Researcher | 🚀 Always building, always growing.
+### 🎓 B.Tech CSE final year student at SRM Institute of Science & Technology, passionate about cloud, AI, and building real-world impact-driven solutions. ☁️ AWS Certified | 💻 Backend & Systems | 🧠 ML Researcher | 🚀 Always building, always growing.
 
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="750" alt="Banner GIF" />
@@ -18,13 +18,13 @@
 
 ## 💫 About Me
 
-- 🎓 B.Tech CSE student at SRM Institute of Science & Technology
+- 🎓 B.Tech CSE student at SRM Institute of Science & Technology[cite: 1]
 - 🌐 Explore my projects & portfolio: [portfolio.diyasri.me](https://portfolio.diyasri.me/)
-- ☁️ AWS Certified with a strong interest in cloud, backend systems, and scalable applications
-- 💻 Skilled in C, C++, Python, DBMS, APIs, and system design fundamentals
-- 🧠 Built projects across AI, multimedia processing, and backend-driven applications
-- 🚀 Passionate about creating real-world, impact-driven solutions through technology
-- 📊 Strong foundation in Data Structures, OOP, Operating Systems, and Computer Networks
+- ☁️ AWS Certified with a strong interest in cloud, backend systems, and scalable applications[cite: 1]
+- 💻 Skilled in C, C++, Python, DBMS, APIs, and system design fundamentals[cite: 1]
+- 🧠 Built projects across AI, multimedia processing, and backend-driven applications[cite: 1]
+- 🚀 Passionate about creating real-world, impact-driven solutions through technology[cite: 1]
+- 📊 Strong foundation in Data Structures, OOP, Operating Systems, and Computer Networks[cite: 1]
 - 🌱 Continuously learning, building, and exploring new technologies
 - 💡 Building with purpose and growing through every project
 
@@ -51,11 +51,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diyasri2004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Diyasri2004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=Diyasri2004&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Diyasri2004&theme=tokyonight&hide_border=false&card_width=495" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyasri2004&theme=tokyonight&hide_border=false&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Diyasri2004&theme=tokyonight&hide_border=false&layout=compact" alt="Top Langs" />
 </p>
 
 ---
@@ -68,10 +68,11 @@
 
 ---
 
-## 🔝 Top Contributed Repo
+## 🔝 Featured Projects
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Diyasri2004&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Diyasri2004&repo=Voyanta&theme=tokyonight" alt="Voyanta Repo" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Diyasri2004&repo=NeuroTwin&theme=tokyonight" alt="NeuroTwin Repo" />
 </p>
 
 ---
@@ -104,5 +105,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Diyasri2004&icon=0&color=BB86FC" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Diyasri2004&color=bb86fc&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
