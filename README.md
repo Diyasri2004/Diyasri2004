@@ -8,7 +8,8 @@
 
 ## Hi, I am Diya Srivastava 👋, Let's explore what we have here ✨
 
-### 🎓 B.Tech CSE final year student at SRM Institute of Science & Technology, passionate about cloud, AI, and building real-world impact-driven solutions. ☁️ AWS Certified • 🛠️ Backend Architect • 🧠 AI Enthusiast • 📈 Always learning, building, and iterating.
+### 🎓 Computer Science undergraduate at SRM Institute of Science & Technology with a passion for designing scalable backends, intelligent pipelines, and practical AI solutions.
+`☁️ AWS Certified` | `⚙️ Systems & APIs` | `💡 Turning ideas into working code`
 
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="750" alt="Banner GIF" />
@@ -48,14 +49,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Diyasri2004&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fastly.vercel.app/api?username=Diyasri2004&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" />
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=Diyasri2004&theme=tokyonight&hide_border=false&card_width=495" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Diyasri2004&theme=tokyonight&hide_border=false&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats-fastly.vercel.app/api/top-langs/?username=Diyasri2004&theme=tokyonight&hide_border=false&layout=compact" alt="Top Langs" />
 </p>
 
 ---
@@ -70,10 +69,11 @@
 
 ## 🔝 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Diyasri2004&repo=Voyanta&theme=tokyonight" alt="Voyanta Repo" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Diyasri2004&repo=NeuroTwin&theme=tokyonight" alt="NeuroTwin Repo" />
-</p>
+| Project | Tech Stack | Highlights |
+| :--- | :--- | :--- |
+| 🌍 **[Voyanta](https://voyanta-xi.vercel.app/)**[cite: 1] | FastAPI, React, TypeScript, Gemini API, PostgreSQL[cite: 1] | Multi-model dynamic AI travel and exploration engine[cite: 1]. |
+| 🧠 **[NeuroTwin](https://github.com/Diyasri2004)**[cite: 1] | Python, TensorFlow, Keras, SciPy, Scikit-learn[cite: 1] | EEG-based cognitive state classification and signal processing[cite: 1]. |
+| 📚 **[ProfX AI](https://github.com/Diyasri2004)**[cite: 1] | Python, Flask, OCR, Document Pipelines[cite: 1] | Automated question & answer generation from study documents[cite: 1]. |
 
 ---
 
@@ -103,7 +103,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Diyasri2004&color=bb86fc&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
