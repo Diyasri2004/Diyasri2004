@@ -8,9 +8,8 @@
 
 ## Hi, I am Diya Srivastava 👋, Let's explore what we have here ✨
 
-### 🎓 Computer Science undergraduate at SRM Institute of Science & Technology with a passion for designing scalable backends, intelligent pipelines, and practical AI solutions.
-`☁️ AWS Certified` | `⚙️ Systems & APIs` | `💡 Turning ideas into working code`
-
+ ### 🎓 Final year B.Tech CSE student at SRM Institute of Science & Technology, passionate about cloud, AI, and building real-world impact-driven solutions. ☁️ AWS Certified • 🛠️ Backend Architect • 🧠 AI Enthusiast • 📈 Always learning, building, and iterating.
+ 
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="750" alt="Banner GIF" />
 </p>
